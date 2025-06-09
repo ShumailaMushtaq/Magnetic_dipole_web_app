@@ -36,8 +36,6 @@ This is a Streamlit web application for visualizing the magnetic dipole field ge
 
 3. **Use the sidebar** to enter coil and drive parameters, then click **Compute & Plot**.
 
-4. **Click "Exit App"** to stop the server.
-
 ## Instructions
 
 1. Enter your parameters in the sidebar.
@@ -46,7 +44,6 @@ This is a Streamlit web application for visualizing the magnetic dipole field ge
     - The instantaneous coil current $I_{\mathrm{coil}}(t)$.
     - The magnetic dipole field $|\mathbf{B}(t)|$ at $(z_0, 0, 0)$.
     - The computed peak current $I_0$.
-4. Click **Exit App** to stop the server.
 
 ## File Structure
 
